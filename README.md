@@ -11,7 +11,7 @@ This project enables semantic question answering on the *Catan* board game ruleb
 | Name                  | URL                                           |
 |-----------------------|-----------------------------------------------|
 | Embedding Model Page  | [Sahajtomar/German-semantic](https://huggingface.co/Sahajtomar/German-semantic) |
-| Code                  | [GitHub Repository](https://github.com/yourusername/catan-rag-bot) *(replace with actual link)* |
+| Code                  | [GitHub Repository](https://github.com/dewiri/RAG-CATAN-BOT) |
 
 ---
 
@@ -19,7 +19,7 @@ This project enables semantic question answering on the *Catan* board game ruleb
 
 | Data Source | Description                        |
 |-------------|------------------------------------|
-| Catan PDFs  | Official German rulebook in PDF format |
+| Catan PDFs  | Official english rulebook in PDF format |
 
 ---
 
